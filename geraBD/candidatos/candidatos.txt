@@ -1,0 +1,71 @@
+1;ADAILTON FERREIRA LIMA<br>ADAILTON;1ª Região: Distrito Federal e Tocantins - Lotação: MPT;1;0;1
+2;ALEXANDRE GELIN DOMENICO<br>ALEXANDRE GELIN DOMENICO;1ª Região: Distrito Federal e Tocantins - Lotação: TST;1;0;1
+3;ALEXANDRE PRATA RODRIGUES<br>PRATA;1ª Região: Distrito Federal e Tocantins - Lotação: TST;1;0;1
+4;ANTONIO FURTADO MELO FILHO<br>ANTONIO FURTADO;1ª Região: Distrito Federal e Tocantins - Lotação: TST;1;0;1
+5;ARTURO BUZZI FILHO<br>ARTURO BUZZI;1ª Região: Distrito Federal e Tocantins - Lotação: TST;1;0;1
+6;CELSO MARQUES DE CARVALHO<br>CELSO MARQUES;1ª Região: Distrito Federal e Tocantins - Lotação: MPT;1;0;0
+7;CLEDO DE OLIVEIRA VIEIRA <br>CLEDO;1ª Região: Distrito Federal e Tocantins - Lotação: TRT10;1;0;0
+8;DANIELA LOPES MENDES<br>DANIELA MENDES;1ª Região: Distrito Federal e Tocantins - Lotação: PGT;1;0;1
+9;EDMILSON ALVES DA SILVA<br>EDMILSON ALVES;1ª Região: Distrito Federal e Tocantins - Lotação: TRT10;1;0;1
+10;EDMILSON DE JESUS GOMES<br>EDMILSON GOMES;1ª Região: Distrito Federal e Tocantins - Lotação: TST;1;0;1
+11;EDSON CALIXTO SALIBA<br>SALIBA;1ª Região: Distrito Federal e Tocantins - Lotação: TST;1;0;1
+12;EDSON RODRIGUES DA COSTA<br>EDSON COSTA;1ª Região: Distrito Federal e Tocantins - Lotação: TRT10;1;0;1
+13;EDUARDO DA FONSECA MELO<br>EDUARDO MELO;1ª Região: Distrito Federal e Tocantins - Lotação: TRT10;1;0;1
+14;EDUARDO GONÇALVES SILVA<br>EDUARDO GONÇALVES;1ª Região: Distrito Federal e Tocantins - Lotação: TRT10;1;0;1
+15;IVAN ZACARIAS GUIMARÃES GOBBO<br>IVAN ZACARIAS G GOBBO;1ª Região: Distrito Federal e Tocantins - Lotação: TST;1;0;1
+16;JOHNNILTON AUGUSTUS RODRIGUES DOS SANTOS<br>AUGUSTUS - TST;1ª Região: Distrito Federal e Tocantins - Lotação: TST;1;0;1
+17;JOMAR PEREIRA DA SILVA<br>JOMAR PEREIRA;1ª Região: Distrito Federal e Tocantins - Lotação: TST;1;0;1
+18;JORGE EDUARDO DOS SANTOS MOTTA<br>JORGE EDUARDO DOS SANTOS MOTTA;1ª Região: Distrito Federal e Tocantins - Lotação: TRT10;1;0;1
+19;LIDUINA BEZERRA CLEMENTE DA SILVA<br>LIDUINA BEZERRA C. DA SILVA (Lidia);1ª Região: Distrito Federal e Tocantins - Lotação: TRT10;1;0;1
+20;MARCOS WAGNER MAINIERI<br>MAINIERI;1ª Região: Distrito Federal e Tocantins - Lotação: TST;1;0;1
+21;PAULO ROBERTO DE JESUS BRITO<br>PAULO BRITO;1ª Região: Distrito Federal e Tocantins - Lotação: TRT10;1;0;1
+22;PAULO ROBERTO DE MELO<br>PAULINHO;1ª Região: Distrito Federal e Tocantins - Lotação: TST;1;0;1
+23;RAIMUNDO JUCIER PINHEIRO FERNANDES<br>JUCIER FERNANDES;1ª Região: Distrito Federal e Tocantins - Lotação: TST;1;0;1
+24;ROGÉRIO WANDERLEY GALHARDI<br>ROGÉRIO GALHARDI;1ª Região: Distrito Federal e Tocantins - Lotação: TST;1;0;1
+25;SÉRGIO POLLAZZON<br>POLLAZZON;1ª Região: Distrito Federal e Tocantins - Lotação: TRT10;1;0;1
+26;WALTERMIR OLIVEIRA LOPES<br>WALTERMIR OLIVEIRA LOPES;1ª Região: Distrito Federal e Tocantins - Lotação: TRT10;1;0;1
+27;ADRIANO DE AVIZ BARBOSA<br>ADRIANO AVIZ;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+28;ADROALDO BARRETO BEZERRA<br>ADROALDO BARRETO (Subten Barreto);2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+29;ALDO JOSÉ SILVA DE PAULA<br>ALDO DE PAULA;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+30;ALEXANDRO DE SOUZA MARTINS<br>ALEXANDRO DE SOUZA MARTINS;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+31;ANTONIO AUGUSTO FERREIRA DA MOTA<br>MOTA;2ª Região: Pará e Amapá - Lotação: TRT8;1;0;1
+32;ANTONIO BARBOSA DE OLIVEIRA NETO<br>ANTONIO BARBOSA (Barbozinha);2ª Região: Pará e Amapá - Lotação: TRT8;1;0;1
+33;ANTÔNIO JORGE DE SOUZA<br>SUBTEN DE SOUZA;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+34;ANTÔNIO JORGE SILVA CORREIA<br>JORGINHO;2ª Região: Pará e Amapá - Lotação: TRT8;1;0;1
+35;AUGUSTO JARCEDY DA SILVA MARTINS<br>AUGUSTO JARCEDY;2ª Região: Pará e Amapá - Lotação: TRT8;1;0;1
+36;CARLOS ALBERTO FERREIRA DE CASTRO<br>MAJ. BM DE CASTRO;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+37;EDILSON LÁZARO SANTOS SILVA<br>SUBTEN LÁZARO;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+38;EDINALDO RABELO LIMA<br>TEN. CEL BM RABELO;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+39;FRANCISCO AFONSO SANTOS DA SILVA<br>F. AFONSO SGT;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+40;FRANCISCO GOMES MACHADO<br>FRANCISCO MACHADO;2ª Região: Pará e Amapá - Lotação: TRT8;1;0;1
+41;IVAN TAVARES MORAIS<br>IVAN TAVARES MORAIS;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+42;JOÃO PAULO DE SOUZA OLIVEIRA<br>SGT S. OLIVEIRA;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+43;JOSÉ CARLOS DO CARMO CABRAL<br>CABRAL;2ª Região: Pará e Amapá - Lotação: TRT8;1;0;1
+44;JOSE DE RIBAMAR FRANÇA SILVA<br>RIBAMAR SILVA;2ª Região: Pará e Amapá - Lotação: TRE;1;0;1
+45;JOSÉ DO CARMO PEREIRA NETO<br>JOSE NETO;2ª Região: Pará e Amapá - Lotação: TRT8;1;0;1
+46;JOSÉ HAELTON SOUZA DA COSTA<br>SGT HAELTON;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+47;JOSE RUBENS GURJÃO DE SOUSA<br>2ª SGT BM RUBENS GURJÃO;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+48;KAREN PAES DINIZ GEMAQUE<br>KAREN PAES DINIZ GEMAQUE;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+49;LACY OLIVEIRA AMÂNCIO<br>TENENTE BM AMÂNCIO;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+50;LUIZ CARLOS VIEIRA DA SILVA<br>SGT VIEIRA (ALMOXARIFADO);2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+51;LUIZ PAULO NOVAIS PINHEIRO<br>SGT NOVAIS;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+52;MANOEL ALVES DUARTE<br>SGT DUARTE;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+53;MANOEL ERIMAR ALMEIDA DE SOUZA<br>Ten QOABM ERIMAR;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+54;MARCOS ANTONIO DA ROCHA ARAÚJO<br>MARCOS ARAÚJO;2ª Região: Pará e Amapá - Lotação: TRT8;1;0;1
+55;MARGARETH CARVALHO DE OLIVEIRA<br>MARGARETH (Margot);2ª Região: Pará e Amapá - Lotação: TRT8;1;0;1
+56;MARIO AUGUSTO BARROSO DOS SANTOS <br>ST BARROSO;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+57;MAX ROBLEDO DA SILVA<br>MAX ROBLEDO (TEM ROBLEDO);2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+58;NELCIONE ROXO XAVIER<br>CB BM NELCIONE XAVIER;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+59;NILSON JOSÉ GOMES BARROS<br>NILSON BARROS;2ª Região: Pará e Amapá - Lotação: TRT8;1;0;1
+60;REGINALDO DAS CHAGAS FERREIRA<br>1ª SGT BM FERREIRA;2ª Região: Pará e Amapá - Lotação: CBMPA;1;0;1
+61;RUBENS BRAGA DOS SANTOS<br>RUBENS BRAGA OU KUKA;2ª Região: Pará e Amapá - Lotação: TRT8;1;0;1
+62;SILVIO FARIAS DA SILVEIRA<br>SILVIO SILVEIRA;2ª Região: Pará e Amapá - Lotação: TRT8;1;0;1
+63;UBIRACY SIQUEIRA BENJAMIN<br>UBIRACY SIQUEIRA BENJAMIN;2ª Região: Pará e Amapá - Lotação: TRT8;1;0;1
+64;WALMIR FERREIRA GAMA<br>WALMIR GAMA;2ª Região: Pará e Amapá - Lotação: TRT8;1;0;1
+65;ZAUDIR BARBOSA PEREIRA<br>ZAUDIR;2ª Região: Pará e Amapá - Lotação: TRT8;1;0;1
+66;ARTHUR FERNANDO DELLAGIUSTINA LAGO<br>ARTHUR F. D. LAGO;3ª Região: Santa Catarina - Lotação: TRT12;1;0;1
+67;HENRIQUE JACINTHO DE OLIVEIRA<br>HENRIQUE J. OLIVEIRA;3ª Região: Santa Catarina - Lotação: TRT12;1;0;1
+68;MARCELO AUGUSTO BOTELHO<br>MARCELO AUGUSTO BOTELHO;3ª Região: Santa Catarina - Lotação: TRT12;1;0;1
+69;NILSON MELLO JUNIOR<br>NILSON MELLO JUNIOR;3ª Região: Santa Catarina - Lotação: TRT12;1;0;1
+70;FELIPE DOS SANTOS GIACOMEL<br>FELIPE GIACOMEL;4ª Região: Rio Grande do Sul - Lotação: TRT4;1;0;1
+71;MARCELO ZAMBIASI<br>MARCELO ZAMBIASI;4ª Região: Rio Grande do Sul - Lotação: TRT4;1;0;1

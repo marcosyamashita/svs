@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<title>Sistema de Vota&ccedil;&atilde;o do Sicoob</title>
+
+<link href="../css/templatemo_style.css" type="text/css" rel="stylesheet" />
+
+<link rel="stylesheet" href="../css/slimbox2.css" type="text/css" media="screen" />
+
+<script src="../scripts/validar.js" type="text/javascript"></script>
+<script src="../scripts/mascaraHellas.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+function checkJS(){
+    document.getElementById("jsEnabled").style.visibility = "visible";
+    document.getElementById("jsDisabled").style.visibility = "hidden";
+}
+</script>
+<style type="text/css">
+h1 {
+	color: #333;
+}
+h2 {
+	color: #333;
+}
+h3 {
+	color: #333;
+}
+h4 {
+	color: #333;
+}
+h5 {
+	color: #333;
+}
+h6 {
+	color: #333;
+}
+</style>
+</head>
+<body onload="checkJS()">
+<div id="jsDisabled">
+<font color="#FF0000"><strong> </strong></font>
+<table width="100%" border="0">
+  <tr>
+    <td width="99%"><font color="#FF0000" size="2"><strong>ERRO DE NAVEGA&Ccedil;&Atilde;O:</strong> Seu navegador n&atilde;o suporta JavaScript ou ele n&atilde;o est&aacute; ativado e este recurso &eacute; indispens&aacute;vel para este site.      Para habilitar este recurso no seu navegador &eacute; simples, segue uma p&aacute;gina de ajuda: <a href="http://www.enable-javascript.com/pt/" target="_blank">Clique aqui</a>.    </font></td>
+  </tr>
+  <tr>
+    <td><hr /></td>
+  </tr>
+</table>
+<font color="#FF0000"><strong><br />
+</strong></font></div>
+
+
+<div align="center" id="jsEnabled" style="visibility:hidden">
+
+
+
+<div id="templatemo_header_wrapper">
+	<div id="templatemo_header">
+    	<div id="site_title"><a href="#">Sistema de Vota&ccedil;&atilde;o do Sicoob<br />
+    	</a></div>
+	</div>
+</div>
+<div align="center">
+  <div align="center"><font color="#666666" size="2"><em>::Ambiente Administrativo::</em></font></div>
+</div>
+<div id="templatemo_main_wrapper">
+	<div id="templatemo_main">
+            <div id="home" class="section">
+                    <div align="center">
+                      <br />
+                      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td><table width="95%" border="0" align="center">
+                            <tr>
+                              <td colspan="2" align="left"><h3>Gerador de senha para votação - SVS:</h3></td>
+                            </tr>
+                            <tr>
+                              <td colspan="2" align="left"><hr /></td>
+                            </tr>
+                            <tr>
+                              <td colspan="2" align="left"><p><strong>Neste ambiente você executa a rotina de criar uma nova senha e enviá-la para o email correspondente.<br />
+                                O envio será realizado mediante o e-mail estar préviamente cadastrado na base de dados.</strong></p></td>
+                            </tr>
+                            <tr>
+                              <td width="38%">Envio completo (todos os emails ativos):</td>
+                              <td width="62%" align="left">
+                              <form action="executar.php" method="post" name="ativos" id="ativos">
+		                      <input name="Realizar envio completo" type="submit" class="img_border" id="Realizar envio completo" value="Realizar envio completo" onclick="x = confirm('Confirma o envio da senha para todos os emails do sistema ativos, ou que ainda não votaram?');if(x == true){ return true; }else{ return false;}" />
+                              <input name="tipo" type="hidden" class="img_border" id="tipo" value="ativos" size="35" maxlength="1000" />
+                              <em>acesso administrativo</em>
+                              </form>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>Envio para pessoas específicas (separador=';'):</td>
+                              <td align="left">
+                              <form action="executar.php" method="post" name="especif" id="especif" >
+                                <input name="mails_envio_especif" type="text" class="img_border" id="mails_envio_especif" size="35" maxlength="1000" />
+                                <input name="Realizar envio específico" type="submit" class="img_border" id="Realizar envio específico" value="Realizar envio específico" onclick="if (mails_envio_especif.value == '') { alert('PARA UM ENVIO ESPECIFICO DECLARE ANTES OS EMAILS.');	mails_envio_especif.focus(); return false; } x = confirm('Confirma o envio da senha para os emails especificados?'); if(x == true){ return true; }else{ return false;}" />
+                                <input name="tipo" type="hidden" class="img_border" id="tipo" value="especifico" size="35" maxlength="1000" />
+                              </form>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td colspan="2"><hr></td>
+                            </tr>
+                          </table></td>
+                        </tr>
+                      </table>
+                      <br />
+                    
+                    </div>
+            </div>
+  </div>
+</div>
+
+<div id="templatemo_footer_wrapper">
+	<div id="templatemo_footer">
+    	<p>:: Versão 1.4 ::<br />Sistema de Votação do Sicoob<br />
+
+</p>
+    </div>
+</div>
+</div>
+</body>
+</html>
